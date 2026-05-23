@@ -199,7 +199,7 @@ LocalRepo
 - GitHub
 
 ## <a class="anchor" id="Author & Contact">🧑‍💼 Author & Contact
-<b>🧑‍💼 Vinod Badrinath</b>
+<b>🧑‍💼 Bhavesh Gurrap</b><br>
 Aspiring Data Analyst skilled in:
 - SQL
 - Power BI
