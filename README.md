@@ -6,14 +6,14 @@ This project focuses on strengthening SQL problem-solving skills through practic
 
 ---
 ## 📌 Table of Contents
-- <a href="Project Overview">Project Overview</a>
-- <a href="SQL Difficulty Levels">SQL Difficulty Levels</a>
-- <a href="Datasets & Question Index">Datasets & Question Index</a>
-- <a href="Complete Marathon File">Complete Marathon File</a>
-- <a href="SQL Concepts Demonstrated">SQL Concepts Demonstrated</a>
-- <a href="Repository Structure">Repository Structure</a>
-- <a href="Tools Used">Tools Used</a>
-- <a href="Author & Contact">Author & Contact</a>
+- <a href="#project overview">Project Overview</a>
+- <a href="#sql difficulty levels">SQL Difficulty Levels</a>
+- <a href="#datasets & question index">Datasets & Question Index</a>
+- <a href="#complete marathon file">Complete Marathon File</a>
+- <a href="#sql concepts demonstrated">SQL Concepts Demonstrated</a>
+- <a href="#repository structure">Repository Structure</a>
+- <a href="#tools used">Tools Used</a>
+- <a href="#author & contact">Author & Contact</a>
 
 ## <a class="anchor" id="Project Overview"></a>>📌 Project Overview
 
